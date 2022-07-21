@@ -14,9 +14,9 @@
 # limitations under the License.
 #
 
-# Boardconfig for lineage_bramble
+# Boardconfig for mokee_bramble
 
-# Add before redbull BoardConfigLineage.mk
+# Add before redbull BoardConfigMoKee.mk
 BOOT_KERNEL_MODULES += ftm5.ko
 
--include device/google/redbull/BoardConfigLineage.mk
+-include device/google/redbull/BoardConfigMoKee.mk
